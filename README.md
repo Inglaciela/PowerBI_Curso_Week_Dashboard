@@ -8,7 +8,7 @@ Evento onde aprendemos a criar Dashboards interativos e que atualizam de forma a
 ______________________________________________________________
 
 Etapas do Evento: 
-* Como evoluir de Planilhas para Dashboards : Documento Live 1
-* Como transformar um Relatório Finaceiro em um Dashboard no Power BI : Documento Live 2
+* Como evoluir de Planilhas para Dashboards
+* Como transformar um Relatório Finaceiro em um Dashboard no Power BI
 * Os Indicadores que impressionam os Gestores
 * Dashboard com Power BI para Áreas de Negócios
